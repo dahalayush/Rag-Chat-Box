@@ -1,0 +1,5 @@
+python-dotenv
+openai
+llama-index
+llama-index-embeddings-google-genai
+llama-index-llms-openai-like
