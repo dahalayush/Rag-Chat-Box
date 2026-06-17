@@ -99,4 +99,4 @@ User question:
             messages=messages,
         )
 
-        return response.choices[0].message.contentc
+        return (response.choices[0].message.content or "").strip()
