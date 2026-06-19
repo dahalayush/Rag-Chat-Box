@@ -1,0 +1,7 @@
+.env
+__pycache__
+*.pyc
+.venv
+*.wav
+voice_agent.py
+cli_agent.py
